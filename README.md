@@ -53,7 +53,7 @@ class MyStack {
 ---
 
 ## 🤝 Let’s Connect  
-- 🌐 [Portfolio Website]( Will add it soon here  🙃 )  
+- 🌐 [Portfolio Website]( Will add it soon here  😊 )  
 - ✉️ [Gmail](mailto:rz.rahimi01@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rz-rahimi01)
 
