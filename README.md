@@ -49,14 +49,6 @@ class MyStack {
 2. **🌤️ Weathrly** – A weather app that combines style and simplicity.  
 3. **🤖 PyBot** – A Python-based bot for automating repetitive tasks.  
 
-
----
-
-## 🤝 Let’s Connect  
-- 🌐 [Portfolio Website]( Will add it soon here  😊 )  
-- ✉️ [Gmail](mailto:rz.rahimi01@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rz-rahimi01)
-
 ---
 
 **“Turning ideas into apps, one line of code at a time.”** 🌟  
