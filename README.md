@@ -74,3 +74,10 @@ class MyStack {
 **“Turning ideas into apps, one line of code at a time.”** 🌟  
 
 ---
+## 📬 Let’s Connect
+
+- 📧 **Email**: [rzrahimi01@gmail.com](mailto:rzrahimi01@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/rz-rahimi01](https://www.linkedin.com/in/rz-rahimi01)  
+- 🐦 **X / Twitter**: [@rz_rahimi01](https://twitter.com/rz_rahimi01)  
+- 📷 **Instagram**: [@rz_rahimi01](https://instagram.com/rz_rahimi01) 
+--
